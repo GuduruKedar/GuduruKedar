@@ -23,49 +23,16 @@
 
 <table>
 <tr>
-```html
 <td width="60%">
-
-<ul>
-  <li>
-    <img src="https://skillicons.dev/icons?i=linkedin" width="18" alt="Education" />
-    <strong> Pursuing a Bachelor's degree in Information Technology with a strong foundation in software engineering.</strong>
-  </li>
-
-  <li>
-    <img src="https://skillicons.dev/icons?i=react" width="18" alt="Full Stack" />
-    <strong> Passionate about designing and building modern, scalable full-stack applications.</strong>
-  </li>
-
-  <li>
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="18" alt="AI" />
-    <strong> Actively exploring Artificial Intelligence, Machine Learning, and intelligent automation.</strong>
-  </li>
-
-  <li>
-    <img src="https://skillicons.dev/icons?i=github" width="18" alt="Learning" />
-    <strong> Continuously expanding my expertise by learning new technologies, frameworks, and best practices.</strong>
-  </li>
-
-  <li>
-    <img src="https://skillicons.dev/icons?i=docker" width="18" alt="Innovation" />
-    <strong> Focused on creating innovative, user-centric solutions that solve real-world challenges.</strong>
-  </li>
-
-  <li>
-    <img src="https://skillicons.dev/icons?i=git" width="18" alt="Open Source" />
-    <strong> Enjoy collaborating on projects, contributing to open source, and sharing knowledge with the developer community.</strong>
-  </li>
-
-  <li>
-    <img src="https://skillicons.dev/icons?i=vscode" width="18" alt="Growth" />
-    <strong> Driven by curiosity, continuous improvement, and a commitment to writing clean, efficient, and maintainable code.</strong>
-  </li>
-
-</ul>
+* 🎓 Information Technology Student 
+* 💻 Passionate about Full Stack Development 
+* 🤖 Exploring AI and Machine Learning 
+* 🌱 Continuously improving development skills 
+* 🚀 Building practical and scalable applications 
+* 📚 Love solving real-world problems with technology 
+* ⚡ Always curious about new tools and frameworks
 
 </td>
-```
 
 
 <td align="center">
