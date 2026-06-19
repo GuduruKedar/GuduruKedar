@@ -25,13 +25,14 @@
 <tr>
 <td width="60%">
 
-* 🎓 Information Technology Student
-* 💻 Passionate about Full Stack Development
-* 🤖 Exploring AI and Machine Learning
-* 🌱 Continuously improving development skills
-* 🚀 Building practical and scalable applications
-* 📚 Love solving real-world problems with technology
-* ⚡ Always curious about new tools and frameworks
+* 🎓 Pursuing a Bachelor's degree in Information Technology with a strong foundation in software engineering.
+* 💻 Passionate about designing and building modern, scalable full-stack applications.
+* 🤖 Actively exploring Artificial Intelligence, Machine Learning, and intelligent automation.
+* 🌱 Continuously expanding my expertise by learning new technologies, frameworks, and best practices.
+* 🚀 Focused on creating innovative, user-centric solutions that solve real-world challenges.
+* 📚 Enjoy collaborating on projects, contributing to open source, and sharing knowledge with the developer community.
+* ⚡ Driven by curiosity, continuous improvement, and a commitment to writing clean, efficient, and maintainable code.
+
 
 </td>
 
